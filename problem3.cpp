@@ -5,6 +5,6 @@ int main() {
     float F;
     cout<< "Give a temperature in Celsius: "  <<endl;
     cin>>t;
-    cout<<"The temperature in Fahrenheit is equal to " <<t*1.8+32<<" "<<" "<<endl;
+    cout<<"The temperature in Farenheit is equal to " <<t*9./5+32<<" "<<" "<<endl;
     return 0;
 }
